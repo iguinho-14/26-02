@@ -76,6 +76,20 @@ if($numRow > 0){
                                     <p class="text-right">
                                         <input type="submit" value="Entrar" class="btn btn-primary">
                                     </p>
+                                    <p>
+<form action="login.php" method="post">
+    <label for="email">E-mail:</label>
+    <input type="email" name="email" required>
+    
+    <label for="senha">Senha:</label>
+    <input type="password" name="senha" required>
+    
+    <button type="submit">Entrar</button>
+    
+    <a href="cadastro_cliente.php">Não tem uma conta? Cadastre-se</a>
+</form>
+
+                                    </p>
                                 </form>
                                 <p class="text-center">
                                     <small>

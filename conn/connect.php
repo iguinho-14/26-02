@@ -1,6 +1,6 @@
 <?php 
 $host = "127.0.0.1";
-$database = "tinsphpdb01";
+$database = "pizzaria_estelar";
 $user = "root";
 $pass = "";
 $charset = "utf8";

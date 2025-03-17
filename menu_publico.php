@@ -19,7 +19,7 @@ $rows_tipos = $lista_tipos->fetch_all();
                    <span class="icon-bar"></span>  
                 </button>
                 <a href="index.php" class="navbar-brand">
-                    <img src="images/loguinho.jpg" alt="Logotipo Chuleta Quente">
+                    <img src="images/loguinho.png" alt="Logo Estelar Pizzaria">
                 </a>
             </div>
             <!-- Fecha agrupamento Mobile -->
